@@ -1,0 +1,14 @@
+1|Matrix|1999|Fantastycznonaukowy|Keanu Reeves|Laurence Fishburne|0
+2|Uwierz w ducha|1990|Dramat|Patrick Swayze|Demi Moore|0
+3|Leon Zawodowiec|1994|Akcja|Jean Reno|Natalie Portman|0
+4|Zapach kobiety|1992|Dramat|Al Pacino|Chris O'Donnell|0
+5|Siedem|1995|Dreszczowiec|Morgan Freeman|Brad Pitt|1
+6|Piaty element|1997|Fantastycznonaukowy|Bruce Willis|Milla Jovovich|1
+7|Piraci z Karaibow: Klatwa Czarnej Perly|2004|Przygodowy|Johnny Depp|Keira Knightley|1
+8|Robin Hood: Ksiaze Zlodziei|1991|Przygodowy|Kevin Costner|Alan Rickman|1
+9|Bodyguard|1992|Dramat|Whitney Houston|Kevin Costner|1
+10|Forrest Gump|1994|Dramat|Tom Hanks|Robin Wright|1
+11|Skazani na Shawshank|1994|Dramat|Morgan Freeman|Tim Robbins|0
+12|Wielki Blekit|1988|Dramat|Jean Reno|Rosanna Arquette|1
+13|Titanic|1997|Katastroficzny|Kate Winslet|Leonardo DiCaprio|1
+14|Masz wiadomosc|1998|Komedia romantyczna|Tom Hanks|Meg Ryan|0

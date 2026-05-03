@@ -1,0 +1,8 @@
+1|Artur|Korneluk|piwko|haslo1
+2|Krzysztof|Ornacki|kris|haslo2
+3|Mateusz|Polek|matipolo|haslo3
+4|Karol|Ozga|karol|haslo4
+5|Mikolaj|Polewka|polewaj|haslo5
+7|Chandler|Bing|friends|haslo7
+8|Bozydar|Sokolowski|bosozko|haslo
+9|jan|kowalski|janek|haslo
