@@ -2,7 +2,7 @@
 
     Terminalowa aplikacja napisana w C++ symulująca działanie wypożyczalni płyt DVD - bardzo popularne miejsce początku lat 2000.  
 
-## O projektcie
+## O projekcie
 
 Projekt powstał w ramach przedmiotu "Języki Programowania Obiektowego" w celu nauki zaawansowanych struktur obiektowego C++ oraz architektury aplikacji.
 
